@@ -28,6 +28,7 @@
 	$rem_patterns[] = 'tracker.bt-chat.com'; // tracker.bt-chat.com has address 127.0.0.1
 	$rem_patterns[] = 'tracker.ydy.com'; // Host tracker.ydy.com not found: 3(NXDOMAIN)
 	$rem_patterns[] = 'www.torrentrealm.com'; // Host www.torrentrealm.com not found: 3(NXDOMAIN)
+	$rem_patterns[] = 'erdgeist.org'; // opentracker is NOT an actual tracker
 	
 	// DNS Errors
 	$rem_patterns[] = '100-percent-dvd.ath.cx';
@@ -855,4 +856,3 @@
 	$rem_patterns[] = 'tracker.bt-chat.com';
 	$rem_patterns[] = 'tracker.sladinki007.net';
 	$rem_patterns[] = 'tracker.ydy.com';
-	$rem_patterns[] = 'www.torrentrealm.com';
